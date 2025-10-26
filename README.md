@@ -1,4 +1,4 @@
-# Calculator Project
+# Python Calculator Project
 
 A simple Python calculator application with basic arithmetic operations.
 
